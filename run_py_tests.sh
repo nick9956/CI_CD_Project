@@ -4,7 +4,7 @@
 cd tests
 
 # Run the tests using the Python unittest module
-poetry run python string_test.py
+python string_test.py
 
 # Return to the root directory
 cd ..
