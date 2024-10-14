@@ -13,7 +13,6 @@ dist/
 htmlcov/
 .coverage
 .cache
-*.xml
 
 # Virtual environments
 .venv/
