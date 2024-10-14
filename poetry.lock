@@ -233,5 +233,5 @@ traceback2 = "*"
 
 [metadata]
 lock-version = "2.0"
-python-versions = "^3.12"
-content-hash = "10ac68751e521e9370f6ef7496ceed8453eaa31005295f66668b03c49419fdca"
+python-versions = "^3.11.2"
+content-hash = "341d4873600f77e6741283e0601e532ce48c3497ad347dd4722f496e260f059c"
