@@ -35,3 +35,6 @@ Make sure the script is executable. If it's not, you can make it executable by r
 ```bash
 chmod +x run_py_tests.sh
 ```
+
+## Version 1.0.0 - Release Notes
+- Added Jenkinsfile feature which allows to automate CI/CD process
