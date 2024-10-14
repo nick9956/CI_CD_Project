@@ -1,10 +1,6 @@
 pipeline {
     agent any
 
-    environment {
-        // Define necessary environment variables here
-    }
-
     stages {
         stage('Setup') {
             steps {
