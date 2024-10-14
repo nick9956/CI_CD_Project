@@ -31,8 +31,7 @@ pipeline {
     }
     post {
         always {
-            // Clean up the workspace after the pipeline runs
-            cleanWs()
+            junit '**/test-reports/*.xml'
         }
         success {
             // Actions to perform if the pipeline was successful
